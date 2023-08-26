@@ -4,7 +4,22 @@
     font-family: "averta cy w10";
     box-sizing: border-box;
 }
-
+@font-face {
+    font-family:"averta cy w10" ;
+    src: url(./AvertaCY-Bold.woff2);
+}
+@font-face {
+    font-family:"averta cy w10" ;
+    src: url(./AvertaCY-Light.woff2);
+}
+@font-face {
+    font-family:"averta cy w10" ;
+    src: url(./AvertaCY-Regular.woff2);
+}
+@font-face {
+    font-family:"averta cy w10" ;
+    src: url(./AvertaCY-Semibold.woff2);
+}
 *::selection {
     color: #ffff;
     background-color: #000;
